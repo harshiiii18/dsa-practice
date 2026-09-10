@@ -12,5 +12,12 @@
     "difficulty": "Medium",
     "pattern": "Dynamic-Programming",
     "date": "2026-09-09"
+  },
+  {
+    "slug": "minimum-cost-to-cut-a-stick",
+    "title": "Minimum Cost to Cut a Stick",
+    "difficulty": "Hard",
+    "pattern": "Dynamic-Programming",
+    "date": "2026-09-10"
   }
 ]
