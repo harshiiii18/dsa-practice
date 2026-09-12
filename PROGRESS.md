@@ -1,21 +1,22 @@
 # 📊 DSA Progress
 
-**Total problems solved:** 4
+**Total problems solved:** 5
 
 ## By Difficulty
 | Difficulty | Count |
 |---|---|
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 3 |
 
 ## By Pattern
 | Pattern | Count |
 |---|---|
-| Dynamic-Programming | 4 |
+| Dynamic-Programming | 5 |
 
 ## All Problems
 | # | Problem | Difficulty | Pattern | Solved On |
 |---|---|---|---|---|
+| 5 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | Dynamic-Programming | 2026-09-12 |
 | 4 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | Hard | Dynamic-Programming | 2026-09-12 |
 | 3 | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | Hard | Dynamic-Programming | 2026-09-10 |
 | 2 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | Dynamic-Programming | 2026-09-09 |
