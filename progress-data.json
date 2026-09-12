@@ -19,5 +19,12 @@
     "difficulty": "Hard",
     "pattern": "Dynamic-Programming",
     "date": "2026-09-10"
+  },
+  {
+    "slug": "palindrome-partitioning-ii",
+    "title": "Palindrome Partitioning II",
+    "difficulty": "Hard",
+    "pattern": "Dynamic-Programming",
+    "date": "2026-09-12"
   }
 ]
