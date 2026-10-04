@@ -33,5 +33,12 @@
     "difficulty": "Medium",
     "pattern": "Dynamic-Programming",
     "date": "2026-09-12"
+  },
+  {
+    "slug": "number-of-operations-to-make-network-connected",
+    "title": "Number of Operations to Make Network Connected",
+    "difficulty": "Medium",
+    "pattern": "Union-Find",
+    "date": "2026-10-04"
   }
 ]
