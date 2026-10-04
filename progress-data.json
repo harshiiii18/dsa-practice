@@ -40,5 +40,12 @@
     "difficulty": "Medium",
     "pattern": "Union-Find",
     "date": "2026-10-04"
+  },
+  {
+    "slug": "longest-palindromic-substring",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "pattern": "Dynamic-Programming",
+    "date": "2026-10-04"
   }
 ]
