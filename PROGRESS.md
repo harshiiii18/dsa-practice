@@ -1,22 +1,23 @@
 # 📊 DSA Progress
 
-**Total problems solved:** 6
+**Total problems solved:** 7
 
 ## By Difficulty
 | Difficulty | Count |
 |---|---|
-| Medium | 3 |
+| Medium | 4 |
 | Hard | 3 |
 
 ## By Pattern
 | Pattern | Count |
 |---|---|
-| Dynamic-Programming | 5 |
+| Dynamic-Programming | 6 |
 | Union-Find | 1 |
 
 ## All Problems
 | # | Problem | Difficulty | Pattern | Solved On |
 |---|---|---|---|---|
+| 7 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Dynamic-Programming | 2026-10-04 |
 | 6 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium | Union-Find | 2026-10-04 |
 | 5 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | Dynamic-Programming | 2026-09-12 |
 | 4 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | Hard | Dynamic-Programming | 2026-09-12 |
