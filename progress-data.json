@@ -47,5 +47,12 @@
     "difficulty": "Medium",
     "pattern": "Dynamic-Programming",
     "date": "2026-10-04"
+  },
+  {
+    "slug": "making-a-large-island",
+    "title": "Making A Large Island",
+    "difficulty": "Hard",
+    "pattern": "Graphs",
+    "date": "2026-10-05"
   }
 ]
